@@ -16,7 +16,7 @@
  */
 
 const GEMINI_API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
-const GEMINI_MODEL    = 'gemini-1.5-flash'; // lightweight, fast, sufficient for explanation tasks
+const GEMINI_MODEL    = 'gemini-2.5-flash'; // lightweight, fast, sufficient for explanation tasks
 const TIMEOUT_MS      = 15000; // 15-second hard timeout
 
 /**
